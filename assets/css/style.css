@@ -582,3 +582,18 @@ body.js .reveal.in{opacity:1;transform:none}
 .areas-cloud{display:flex;flex-wrap:wrap;gap:12px;justify-content:center;max-width:900px;margin:0 auto}
 .area-pill{display:inline-flex;align-items:center;gap:8px;background:#fff;border:1px solid var(--line);border-radius:999px;padding:10px 20px;font-weight:600;font-size:14.5px;color:var(--navy);box-shadow:var(--shadow-sm)}
 .area-pill svg{width:14px;height:14px;fill:var(--blue);flex:none}
+
+/* ======= Footer newsletter + social ======= */
+.footer-news-text{font-size:14px;color:#9fb3d9;margin:0 0 14px;line-height:1.6}
+.footer-news-form{display:flex;margin-bottom:18px}
+.footer-news-form input{flex:1;min-width:0;background:rgba(255,255,255,.08);border:1px solid rgba(255,255,255,.16);border-radius:10px 0 0 10px;padding:11px 14px;color:#fff;font-size:14px;font-family:inherit}
+.footer-news-form input::placeholder{color:#7e93b8}
+.footer-news-form input:focus{outline:none;border-color:var(--blue)}
+.footer-news-form button{background:var(--blue);border:1px solid var(--blue);color:#fff;font-weight:700;font-size:14px;padding:11px 18px;border-radius:0 10px 10px 0;cursor:pointer;font-family:inherit;white-space:nowrap}
+.footer-news-form button:hover{background:var(--blue-dark)}
+.footer-social{display:flex;gap:10px}
+.footer-social a{width:38px;height:38px;display:inline-flex;align-items:center;justify-content:center;border-radius:10px;background:rgba(255,255,255,.08);border:1px solid rgba(255,255,255,.12);transition:.18s}
+.footer-social a:hover{background:var(--blue);border-color:var(--blue);transform:translateY(-2px)}
+.footer-social svg{width:17px;height:17px;fill:#fff}
+.footer-addr-line{display:inline-flex;gap:10px;align-items:flex-start;font-size:14.5px;font-weight:600;line-height:1.6}
+.footer-addr-line svg{width:18px;height:18px;fill:none;stroke:var(--cyan);stroke-width:2;flex:none;margin-top:3px}
