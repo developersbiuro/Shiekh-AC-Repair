@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# Replace with your real domain after deploying, then submit this sitemap in Google Search Console
+Sitemap: https://shiekhacrepair.com/sitemap.xml

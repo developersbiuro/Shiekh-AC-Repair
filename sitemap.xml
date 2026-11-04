@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <!-- Replace https://shiekhacrepair.com with your real domain after deploying -->
+  <url><loc>https://shiekhacrepair.com/</loc><changefreq>weekly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://shiekhacrepair.com/about.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://shiekhacrepair.com/services.html</loc><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://shiekhacrepair.com/contact.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://shiekhacrepair.com/faqs.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://shiekhacrepair.com/blog.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://shiekhacrepair.com/service-areas.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://shiekhacrepair.com/blog/ac-not-cooling-causes.html</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://shiekhacrepair.com/blog/ac-gas-refilling-cost-faisalabad.html</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://shiekhacrepair.com/blog/reduce-ac-electricity-bill.html</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://shiekhacrepair.com/blog/inverter-vs-split-ac-pakistan.html</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+</urlset>
